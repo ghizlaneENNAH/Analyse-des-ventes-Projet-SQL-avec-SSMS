@@ -1,0 +1,101 @@
+Order_ID,Date_Commande,Client,Produit,Catégorie,Prix_Unitaire,Quantité,Ville,Pays,Paiement
+1000,2025-06-27,Sébastien,Chaise Bois,Maison,350,3,Casablanca,Maroc,Espèces
+1001,2025-06-26,Olivier,Lampe LED,Maison,220,5,Marrakech,Maroc,Carte Bancaire
+1002,2025-06-12,Michel,Bureau Compact,Maison,1100,3,Tanger,Maroc,Espèces
+1003,2025-04-28,Antoinette,Ordinateur HP,Électronique,5200,4,Tanger,Maroc,Espèces
+1004,2025-03-20,Jacqueline,Livre Aventure,Livres,120,3,Oujda,Maroc,Virement
+1005,2025-04-11,Jacques,Samsung Galaxy,Électronique,3200,1,Fès,Maroc,PayPal
+1006,2025-06-22,Augustin,Table Ronde,Maison,800,1,Oujda,Maroc,Virement
+1007,2025-01-06,Gilles,Livre Aventure,Livres,120,4,Tanger,Maroc,PayPal
+1008,2025-06-02,Diane,Ordinateur HP,Électronique,5200,3,Tanger,Maroc,Virement
+1009,2025-01-06,Virginie,PC ASUS,Électronique,4500,4,Oujda,Maroc,Espèces
+1010,2025-04-27,Suzanne,Ordinateur HP,Électronique,5200,2,Casablanca,Maroc,Espèces
+1011,2025-01-20,Michelle,Ordinateur HP,Électronique,5200,2,Agadir,Maroc,Carte Bancaire
+1012,2025-05-06,Caroline,Lampe LED,Maison,220,5,Rabat,Maroc,Espèces
+1013,2025-06-15,Pierre,PC ASUS,Électronique,4500,5,Marrakech,Maroc,Carte Bancaire
+1014,2025-03-24,Maryse,Lampe LED,Maison,220,4,Fès,Maroc,Carte Bancaire
+1015,2025-03-04,Juliette,Samsung Galaxy,Électronique,3200,5,Fès,Maroc,Carte Bancaire
+1016,2025-05-01,Véronique,Samsung Galaxy,Électronique,3200,2,Fès,Maroc,Carte Bancaire
+1017,2025-04-25,Zoé,Ordinateur HP,Électronique,5200,5,Fès,Maroc,Virement
+1018,2025-01-10,Jacques,Table Ronde,Maison,800,5,Fès,Maroc,Espèces
+1019,2025-03-14,Renée,Livre Aventure,Livres,120,5,Agadir,Maroc,PayPal
+1020,2025-04-13,Émile,PC ASUS,Électronique,4500,1,Rabat,Maroc,Virement
+1021,2025-04-15,Marcel,Lampe LED,Maison,220,5,Casablanca,Maroc,Virement
+1022,2025-06-01,Corinne,Samsung Galaxy,Électronique,3200,5,Agadir,Maroc,PayPal
+1023,2025-05-23,David,Livre Aventure,Livres,120,2,Rabat,Maroc,Virement
+1024,2025-01-20,Victoire,Bureau Compact,Maison,1100,4,Fès,Maroc,PayPal
+1025,2025-06-01,Emmanuel,Bureau Compact,Maison,1100,2,Oujda,Maroc,Espèces
+1026,2025-06-14,Bertrand,Lampe LED,Maison,220,4,Agadir,Maroc,Espèces
+1027,2025-06-26,Gérard,Samsung Galaxy,Électronique,3200,3,Tanger,Maroc,Espèces
+1028,2025-01-26,Gabriel,Samsung Galaxy,Électronique,3200,5,Fès,Maroc,Espèces
+1029,2025-01-31,Pierre,Ordinateur HP,Électronique,5200,4,Marrakech,Maroc,Carte Bancaire
+1030,2025-04-09,Claude,Bureau Compact,Maison,1100,1,Oujda,Maroc,Carte Bancaire
+1031,2025-01-05,Timothée,Samsung Galaxy,Électronique,3200,2,Casablanca,Maroc,Carte Bancaire
+1032,2025-03-03,Emmanuel,PC ASUS,Électronique,4500,2,Agadir,Maroc,PayPal
+1033,2025-01-06,Virginie,Chaise Bois,Maison,350,3,Tanger,Maroc,PayPal
+1034,2025-05-02,Frédéric,Tapis Marocain,Maison,900,4,Tanger,Maroc,Virement
+1035,2025-03-28,Valentine,Samsung Galaxy,Électronique,3200,2,Casablanca,Maroc,PayPal
+1036,2025-01-08,Alice,PC ASUS,Électronique,4500,4,Marrakech,Maroc,Espèces
+1037,2025-01-21,Maggie,Ordinateur HP,Électronique,5200,2,Casablanca,Maroc,Virement
+1038,2025-06-21,Sylvie,PC ASUS,Électronique,4500,1,Marrakech,Maroc,Carte Bancaire
+1039,2025-01-10,Françoise,Clavier Logitech,Électronique,450,4,Fès,Maroc,Carte Bancaire
+1040,2025-04-20,Laurent,PC ASUS,Électronique,4500,2,Marrakech,Maroc,PayPal
+1041,2025-04-20,Jeannine,Lampe LED,Maison,220,2,Fès,Maroc,Espèces
+1042,2025-02-14,Colette,Clavier Logitech,Électronique,450,4,Tanger,Maroc,Espèces
+1043,2025-04-17,Nath,Bureau Compact,Maison,1100,3,Marrakech,Maroc,PayPal
+1044,2025-05-20,Michèle,PC ASUS,Électronique,4500,2,Agadir,Maroc,Carte Bancaire
+1045,2025-04-10,Nath,Tapis Marocain,Maison,900,4,Rabat,Maroc,Espèces
+1046,2025-03-02,Sophie,Tapis Marocain,Maison,900,4,Rabat,Maroc,Espèces
+1047,2025-01-05,Claire,Ordinateur HP,Électronique,5200,2,Fès,Maroc,Espèces
+1048,2025-06-14,Charlotte,Table Ronde,Maison,800,3,Agadir,Maroc,Virement
+1049,2025-04-18,Nathalie,Table Ronde,Maison,800,4,Fès,Maroc,PayPal
+1050,2025-06-15,Lorraine,Clavier Logitech,Électronique,450,2,Marrakech,Maroc,Virement
+1051,2025-02-09,Arthur,PC ASUS,Électronique,4500,2,Marrakech,Maroc,Virement
+1052,2025-05-13,Auguste,Bureau Compact,Maison,1100,3,Tanger,Maroc,Espèces
+1053,2025-04-12,Yves,Table Ronde,Maison,800,2,Rabat,Maroc,Espèces
+1054,2025-06-20,Christiane,Ordinateur HP,Électronique,5200,4,Marrakech,Maroc,Carte Bancaire
+1055,2025-01-26,Hélène,Chaise Bois,Maison,350,4,Fès,Maroc,Virement
+1056,2025-04-11,Marc,Table Ronde,Maison,800,1,Casablanca,Maroc,Carte Bancaire
+1057,2025-02-17,Roger,Chaise Bois,Maison,350,5,Marrakech,Maroc,Virement
+1058,2025-04-22,Astrid,Bureau Compact,Maison,1100,2,Rabat,Maroc,Carte Bancaire
+1059,2025-02-09,Bernadette,Clavier Logitech,Électronique,450,4,Agadir,Maroc,Espèces
+1060,2025-01-10,Antoinette,Ordinateur HP,Électronique,5200,5,Casablanca,Maroc,Espèces
+1061,2025-05-09,Henri,Lampe LED,Maison,220,4,Fès,Maroc,Espèces
+1062,2025-03-08,Diane,Livre Aventure,Livres,120,1,Agadir,Maroc,PayPal
+1063,2025-04-05,Claire,PC ASUS,Électronique,4500,4,Oujda,Maroc,PayPal
+1064,2025-06-10,Jean,Clavier Logitech,Électronique,450,3,Agadir,Maroc,Virement
+1065,2025-02-03,Sébastien,Samsung Galaxy,Électronique,3200,2,Marrakech,Maroc,Espèces
+1066,2025-04-05,Michelle,Ordinateur HP,Électronique,5200,4,Agadir,Maroc,Virement
+1067,2025-04-24,Alice,Chaise Bois,Maison,350,4,Fès,Maroc,Espèces
+1068,2025-01-30,Gabrielle,Ordinateur HP,Électronique,5200,1,Agadir,Maroc,Carte Bancaire
+1069,2025-06-28,Augustin,Ordinateur HP,Électronique,5200,1,Rabat,Maroc,Carte Bancaire
+1070,2025-03-12,Alix,Chaise Bois,Maison,350,1,Oujda,Maroc,Carte Bancaire
+1071,2025-02-14,Valentine,Table Ronde,Maison,800,4,Fès,Maroc,Virement
+1072,2025-04-11,Sabine,Bureau Compact,Maison,1100,3,Rabat,Maroc,Carte Bancaire
+1073,2024-12-31,Michelle,Samsung Galaxy,Électronique,3200,3,Tanger,Maroc,Virement
+1074,2025-01-19,Sébastien,Ordinateur HP,Électronique,5200,2,Casablanca,Maroc,Espèces
+1075,2025-06-19,Marc,Chaise Bois,Maison,350,1,Agadir,Maroc,Carte Bancaire
+1076,2025-06-29,Robert,PC ASUS,Électronique,4500,4,Agadir,Maroc,Virement
+1077,2025-03-20,Marcelle,Samsung Galaxy,Électronique,3200,1,Agadir,Maroc,Carte Bancaire
+1078,2025-04-03,Thibaut,Livre Aventure,Livres,120,5,Marrakech,Maroc,Virement
+1079,2025-01-16,Marthe,Ordinateur HP,Électronique,5200,2,Rabat,Maroc,Virement
+1080,2025-05-10,Hélène,Tapis Marocain,Maison,900,2,Marrakech,Maroc,Espèces
+1081,2025-01-03,Patricia,Table Ronde,Maison,800,1,Rabat,Maroc,PayPal
+1082,2025-02-24,Charles,Samsung Galaxy,Électronique,3200,5,Rabat,Maroc,Carte Bancaire
+1083,2025-06-14,Pierre,Tapis Marocain,Maison,900,1,Marrakech,Maroc,Espèces
+1084,2025-02-24,Patricia,Clavier Logitech,Électronique,450,2,Fès,Maroc,Virement
+1085,2025-04-14,Alphonse,Tapis Marocain,Maison,900,1,Oujda,Maroc,Virement
+1086,2025-04-25,Nath,Livre Aventure,Livres,120,5,Tanger,Maroc,Carte Bancaire
+1087,2025-02-18,Stéphanie,Livre Aventure,Livres,120,1,Rabat,Maroc,Virement
+1088,2025-01-06,Aurélie,Livre Aventure,Livres,120,4,Casablanca,Maroc,Virement
+1089,2025-05-23,Arnaude,Clavier Logitech,Électronique,450,4,Agadir,Maroc,Espèces
+1090,2025-05-21,Raymond,PC ASUS,Électronique,4500,2,Tanger,Maroc,Carte Bancaire
+1091,2025-01-07,Marie,Table Ronde,Maison,800,1,Marrakech,Maroc,Virement
+1092,2025-06-08,Claire,Clavier Logitech,Électronique,450,1,Rabat,Maroc,Virement
+1093,2025-01-09,Margaux,Ordinateur HP,Électronique,5200,5,Fès,Maroc,Espèces
+1094,2025-03-13,Nathalie,Bureau Compact,Maison,1100,4,Rabat,Maroc,PayPal
+1095,2025-04-05,Maurice,Ordinateur HP,Électronique,5200,5,Fès,Maroc,Virement
+1096,2025-03-06,Manon,PC ASUS,Électronique,4500,4,Marrakech,Maroc,Carte Bancaire
+1097,2025-06-11,Capucine,Ordinateur HP,Électronique,5200,4,Tanger,Maroc,PayPal
+1098,2025-06-26,Laurence,Table Ronde,Maison,800,5,Rabat,Maroc,Espèces
+1099,2025-04-29,Grégoire,Clavier Logitech,Électronique,450,4,Marrakech,Maroc,Carte Bancaire
